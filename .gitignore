@@ -1,2 +1,4 @@
 # Ignore Node.js build artifacts
 node_modules/
+# Local Netlify folder
+.netlify
